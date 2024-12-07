@@ -1,0 +1,12 @@
+streamlit==1.39.0
+pandas
+numpy
+matplotlib
+geopandas
+shapely
+Pillow
+imageio
+plotly
+google-cloud-bigquery
+remote-graphcast
+scipy
